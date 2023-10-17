@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Middle East & North Africa",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "47.93"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "56.38"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "67.23"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "46.36"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "44.92"
+            }
+        ]
+    },
+    {
+        "name": "Latin America & Caribbean",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "47.46"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "54.97"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "62.16"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "52.21"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "41.01"
+            }
+        ]
+    },
+    {
+        "name": "East Asia & Pacific",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "54.00"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "63.36"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "70.11"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "53.17"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "48.35"
+            }
+        ]
+    },
+    {
+        "name": "Europe & Central Asia",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "57.64"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "66.76"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "70.55"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "63.84"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "54.07"
+            }
+        ]
+    },
+    {
+        "name": "South Asia",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "42.17"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "50.12"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "56.67"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "47.40"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "33.66"
+            }
+        ]
+    },
+    {
+        "name": "North America",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "66.19"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "75.91"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "83.66"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "65.80"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "70.50"
+            }
+        ]
+    },
+    {
+        "name": "Sub-Saharan Africa",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "38.02"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "45.15"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "48.87"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "39.74"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "28.46"
+            }
+        ]
+    }
+]

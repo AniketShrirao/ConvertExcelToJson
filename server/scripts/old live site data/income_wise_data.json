@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Lower middle income",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "41.10"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "52.34"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "57.71"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "45.05"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "34.63"
+            }
+        ]
+    },
+    {
+        "name": "Upper middle income",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "45.83"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "54.55"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "60.84"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "51.47"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "39.66"
+            }
+        ]
+    },
+    {
+        "name": "High income",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "60.23"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "69.47"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "73.73"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "63.08"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "56.87"
+            }
+        ]
+    },
+    {
+        "name": "Low income",
+        "categories": [
+            {
+                "name": "Consumer Empowerment and Confidence",
+                "averageScore": "34.94"
+            },
+            {
+                "name": "Mechanisms for Consumer Protection and Enforcement",
+                "averageScore": "34.80"
+            },
+            {
+                "name": "Consumer Knowledge and Information",
+                "averageScore": "43.17"
+            },
+            {
+                "name": "Sustainability for Consumers",
+                "averageScore": "33.63"
+            },
+            {
+                "name": "Technology and Innovation Products for Consumers",
+                "averageScore": "22.81"
+            }
+        ]
+    }
+]

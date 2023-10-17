@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Consumer Empowerment and Confidence",
+        "desc": "Consumer empowerment provides consumers with a voice and a choice; it is a state whereby consumers are given the tools to put into effect their own choices, demonstrating their needs, wants and demands in the market. This pillar measures the degree to which countries have enabled this environment by exploring the strength of consumer advocacy, measuring its relationship to governance, engagement in policymaking, and ability to represent consumers, and by looking at broad indicators around access, choice, and affordability in the marketplace. A combination of these elements will lead to high empowerment and engagement.",
+        "code": 1000
+    },
+    {
+        "name": "Strength of consumer advocacy ",
+        "desc": "Consumer advocacy can adequately represent the interests of consumers to key decision makers. This indicator tests whether consumer advocates are resourced, resilient and actively engaged with national governance structures and international networks",
+        "code": 1100
+    },
+    {
+        "name": "Access to marketplace",
+        "desc": "All consumers can physically access basic needs and are included in the system. This indicator not only tests physical access to the marketplace, but also access to the internet, finance, healthcare, and public utilities for all consumers.",
+        "code": 1200
+    },
+    {
+        "name": "Choice and affordability in the marketplace",
+        "desc": " Consumers have genuine choice in the marketplace. This indicator tests key market functions such as logistical performance, market environment, measures to encourage competition and consumers' ability to make choices in the marketplace",
+        "code": 1300
+    },
+    {
+        "name": "Mechanisms for Consumer Protection and Enforcement",
+        "desc": "Consumer protection can be defined as the set of actions, policies, institutions and legislation that seek to safeguard the rights of consumers before, during and after the transactions they carry out in the marketplace. This pillar explores the degree to which mechanisms are in place to ensure consumer protection and its enforcement at the national level. Though consumer protection covers all elements of the relationship between people and the marketplace, this pillar only focuses on the existence of consumer protection legislation, enforcement institutions and redress systems, and the development of standards as essential mechanisms to protect consumers. It pays specific attention to the recognition and inclusion of vulnerability and vulnerable and disadvantaged consumers in these mechanisms.  A combination of these measures will lead to strong foundations for consumer protection and enforcement.",
+        "code": 2000
+    },
+    {
+        "name": "Strength and quality of consumer protection mechanisms / measures",
+        "desc": "Consumer protection instruments / institutions are in place in legal and regulatory frameworks to protect all consumers. It explores provisions for consumer rights in legislation, effectiveness of provisions, and the regulatory quality.",
+        "code": 2100
+    },
+    {
+        "name": "National involvment in the development of international standards",
+        "desc": "This indicator tests the degree to which countries are involved in ISO technical committees on the development of standards related to consumer protection. It focuses on overall membership, financial services, food products, product safety, and vulnerable consumers.",
+        "code": 2200
+    },
+    {
+        "name": "Enforcement and access to justice",
+        "desc": "Access to Justice is critical; consumer protection instruments must be accessible, properly enforced, and protect the economic interests of all consumers. This indicator measures the accessibility and strength of enforcement mechanisms by exploring the frequency of enforcement actions, the cost and time of redress, and satisfaction with justice mechanisms.",
+        "code": 2300
+    },
+    {
+        "name": "Consumer Knowledge and Information",
+        "desc": "Consumer knowledge is a consumer understanding of a product which is used in the decision-making process. Consumer information is the information needed by consumers when researching and completing a purchase. This pillar measures the degree to which countries have created an enabling environment to allow consumer knowledge and information to be maximised at the national level. It looks at basic consumer education and skills, as well as the availability of quality consumer information.",
+        "code": 3000
+    },
+    {
+        "name": "Consumer education & skills",
+        "desc": "From an early age consumer skills are built across a range of areas.Consumer education is mainstreamed and effective to all consumers, preparing them to make informed decisions when participating in the market. This indicator tests the quality of the education system, mechanisms for consumer rights education, and buyer sophistication.",
+        "code": 3100
+    },
+    {
+        "name": "Available and quality consumer information ",
+        "desc": "Clear and accurate Information supporting informed choices is accessible to all consumers. This indicator measures the availability and quality of consumer information through funding for consumer education, mechanisms for consumer information, government mandated information programmes and satisfaction with labelling requirements.",
+        "code": 3200
+    },
+    {
+        "name": "Sustainability for Consumers",
+        "desc": "Sustainability for consumers refers to the creation of an enabling environment in which consumers are able to make sustainable choices. Given the breadth of sustainability, this pillar focuses on the mechanisms and measures in place to facilitate sustainable consumption at the national level. Sustainable consumption is measured using domestic material, food, and energy consumption as important proxies. A combination of these indicators will indicate the strength of the national sustainable marketplace.",
+        "code": 4000
+    },
+    {
+        "name": "National / international sustainability engagement",
+        "desc": "Countries facilitate a sustainable marketplace by engaging at the national and international level. This indicator measures international engagement with sustainability pledges, agreements, and treaties. National engagement is measured by whether a national sustainable consumption plan is in place.",
+        "code": 4100
+    },
+    {
+        "name": "Sustainability standards",
+        "desc": "Countries are engaged in the development and adoption of sustainability standards. This indicator measures development through the levels of participation in ISO technical committees, and adoption using minimum standards for vehicle emissions and energy efficiency as important proxies.",
+        "code": 4200
+    },
+    {
+        "name": "National sustainability measures / mechanisms",
+        "desc": "Measures and mechanisms that support sustainability are in place. This indicator measures the presence of sustainability regulations and reporting policies, and if countries have consumer-centred mechanisms to promote sustainable consumption.",
+        "code": 4300
+    },
+    {
+        "name": "National sustainable consumption",
+        "desc": "Sustainable consumption is the use of material products, energy, and immaterial services in such a way that minimises environmental impact. This indicator measures the levels of sustainable consumption nationally, specifically looking to domestic material and food consumption, renewable energy consumption, and the infrastructure of sustainable transport.",
+        "code": 4400
+    },
+    {
+        "name": "Technology and Innovation Products for Consumers",
+        "desc": "Technology and innovation for consumers refers to the creation of an enabling environment in which innovation and technology benefits consumers at the national level. This pillar measures the accessibility and affordability of technology for consumers, and proactive governance in this area.",
+        "code": 5000
+    },
+    {
+        "name": "Accessibility and affordability of technology",
+        "desc": " Consumers can access technology easily and affordably. This indicator measures the usage, infrastructure, and affordability of technology.",
+        "code": 5100
+    },
+    {
+        "name": "Proactive governance and development of innovative standards",
+        "desc": "Governments proactively enact laws to protect and empower consumers in the digital environment and engage in the development of innovative standards. This indicator measures proactive law setting, data governance, and levels of participation in ISO technical committees.",
+        "code": 5200
+    }
+]
