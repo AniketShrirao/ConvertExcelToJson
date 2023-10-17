@@ -28,27 +28,20 @@ const DownloadJsons = () => {
     });
 
     const handleExcel = async () => {
-        const promises = [];
-        const rankTableScoreSent = new Promise((res, rej) => res(sendFile(rankTableScoreJson) || rej(measureLevelCodeJson)));
-        promises.push(rankTableScoreSent);
-        const rankTableRankSent = new Promise((res, rej) => res(sendFile(rankTableRankJson) || rej(rankTableRankJson)));
-        promises.push(rankTableRankSent);
-        const pillarIndicatorDefinitionSent = new Promise((res, rej) => res(sendFile(pillarIndicatorDefinitionJson) || rej(pillarIndicatorDefinitionJson)));
-        promises.push(pillarIndicatorDefinitionSent);
-        const regionWiseJsonSent = new Promise((res, rej) => res(sendFile(regionWiseJson) || rej(regionWiseJson)));
-        promises.push(regionWiseJsonSent);
-        const incomeWiseSent = new Promise((res, rej) => res(sendFile(incomeWiseJson) || rej(incomeWiseJson)));
-        promises.push(incomeWiseSent);
-        const measureLevelCodeSent = new Promise((res, rej) => res(sendFile(measureLevelCodeJson) || rej(measureLevelCodeJson)));
-        promises.push(measureLevelCodeSent);
-        const parentChildMapSent = new Promise((res, rej) => res(sendFile(parentChildMapJson) || rej(parentChildMapJson)));
-        promises.push(parentChildMapSent);
+        const filesToLoad = [
+            rankTableScoreJson,
+            rankTableRankJson,
+            pillarIndicatorDefinitionJson,
+            regionWiseJson,
+            incomeWiseJson,
+            measureLevelCodeJson,
+            parentChildMapJson
+        ];
+
+        const promises = filesToLoad.map((file) => new Promise((res) => res(sendFile(file))));
 
         Promise.allSettled(promises).then((results) => {
-            const statuses = [];
-            results.forEach((result) => {
-                statuses.push(result.value ? result.status : 'rejected');
-            });
+            const statuses = results.map((result) => (result.status === "fulfilled" ? "fulfilled" : "rejected"));
             setStatus(statuses);
         });
     }
